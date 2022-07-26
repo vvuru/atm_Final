@@ -21,7 +21,7 @@ $list2 = sel_board_list2($param);
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/footer.css">
-    <title>Document</title>
+    <title>알림</title>
     <style>
         * {
             box-sizing: border-box;
